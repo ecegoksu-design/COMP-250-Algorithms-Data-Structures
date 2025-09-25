@@ -1,8 +1,3 @@
-/**
- * Your name here: Ece Goksu
- * Your McGill ID here: 261138642
- **/
-
 public class SolitaireCipher {
     public Deck key;
 
